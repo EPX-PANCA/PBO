@@ -58,7 +58,8 @@ public class Deposit extends javax.swing.JFrame {
         jSeparator1 = new javax.swing.JSeparator();
         jLabel1 = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Deposit");
 
         jTableDep.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jTableDep.setModel(new javax.swing.table.DefaultTableModel(
