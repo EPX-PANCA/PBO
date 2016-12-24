@@ -8,7 +8,7 @@ package PengisianPulsa;
 
 /**
  *
- * @author ACE
+ * @author royani
  */
 public class Tentang extends javax.swing.JFrame {
 
